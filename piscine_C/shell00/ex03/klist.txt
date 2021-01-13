@@ -1,0 +1,6 @@
+Credentials cache: API:A6792E91-0745-4FCB-B120-D8A51FE46912
+        Principal: gcefalo@42ROMA.IT
+
+  Issued                Expires               Principal
+Nov 25 08:29:26 2020  Nov 25 18:29:26 2020  krbtgt/42ROMA.IT@42ROMA.IT
+Nov 25 08:29:28 2020  Nov 25 18:29:26 2020  HTTP/storage.42roma.it@42ROMA.IT
